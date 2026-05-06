@@ -22,4 +22,5 @@ SQL | Power BI | Data Visualization
 
 ## 🖼️ Preview
 
-![Dashboard](screenshot.png)
+<img width="619" height="340" alt="Screenshot 2026-05-07 001852" src="https://github.com/user-attachments/assets/4836835d-c97a-4ed3-b8fa-f158ee5f664d" />
+
